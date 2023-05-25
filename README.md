@@ -28,8 +28,8 @@ My solution to the [Profile card component challenge on Frontend Mentor](https:/
 
 ### Links 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/UbaidRussell/Profile-card-component)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) (Site not yet live)
 
 ## My process
 
@@ -39,7 +39,6 @@ My solution to the [Profile card component challenge on Frontend Mentor](https:/
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
 
 ### What I learned
 
@@ -69,9 +68,9 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [UbaidRussell.com](http://ubaidrussell.com/)
+- Frontend Mentor - [@UbaidRussell](https://www.frontendmentor.io/profile/UbaidRussell)
+- Twitter - [@UbaidRussell](https://www.twitter.com/ubaidrussell)
 
 
 ## Acknowledgments
