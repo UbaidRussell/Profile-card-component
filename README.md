@@ -29,42 +29,44 @@ My solution to the [Profile card component challenge on Frontend Mentor](https:/
 ### Links 
 
 - Solution URL: [Add solution URL here](https://github.com/UbaidRussell/Profile-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) (Site not yet live)
+- Live Site URL: [Add live site URL here](https://ubaidrussell.com/Profile-card-component/)
 
 ## My process
+    Mapped out the site and executed.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
+For the CSS we had to fade the background blots into the background and rotate them to align them up right. I learned how to do that with the following code:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.blot-1{
+    z-index: -1;
+    position: absolute;
+    rotate: 100deg;
+    top: -400px;
+    left: -100px;
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+.blot-2{
+    z-index: -1;
+    position: absolute;
+    left: 900px;
+    top: 500px;
+    rotate: -320deg;
 }
-```
 
+```
 
 ### Continued development
 
-
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.w3schools.com/cssref/pr_background-image.php) - We didn't have to do much research for this project but this helped me understand how to use background images in CSS.
 
 ## Author
 
@@ -74,3 +76,4 @@ const proudOfThisFunc = () => {
 
 
 ## Acknowledgments
+Shoutout to the guys at Frontend Mentor for making this project and helping me learn more about frontend development.
