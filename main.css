@@ -89,6 +89,13 @@ p{
     flex-direction: column;
     align-items: center;
 }
+.blot-1{
+    z-index: -1;
+    position: absolute;
+    rotate: 100deg;
+    top: -400px;
+    left: -100px;
+}
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
