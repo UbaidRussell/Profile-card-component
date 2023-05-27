@@ -24,7 +24,7 @@ My solution to the [Profile card component challenge on Frontend Mentor](https:/
 
 ### Screenshot
 
-![](./screenshot.jpg) (Screenshot of the project not yet completed)
+![](images/screenshot.png)
 
 ### Links 
 
