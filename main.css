@@ -96,6 +96,13 @@ p{
     top: -400px;
     left: -100px;
 }
+.blot-2{
+    z-index: -1;
+    position: absolute;
+    left: 900px;
+    top: 500px;
+    rotate: -320deg;
+}
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
