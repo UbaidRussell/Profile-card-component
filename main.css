@@ -1,6 +1,9 @@
 body{
     font-family: 'Kumbh Sans', sans-serif;
     background-color:hsl(185, 75%, 39%);
+    background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
 }
 .outer-container{
    margin: auto;
@@ -89,20 +92,7 @@ p{
     flex-direction: column;
     align-items: center;
 }
-.blot-1{
-    z-index: -1;
-    position: absolute;
-    rotate: 100deg;
-    top: -400px;
-    left: -100px;
-}
-.blot-2{
-    z-index: -1;
-    position: absolute;
-    left: 900px;
-    top: 500px;
-    rotate: -320deg;
-}
+
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
