@@ -96,3 +96,18 @@ p{
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+
+@media only screen and (min-width: 200px) and (max-width:500px){
+
+    .outer-container{
+        width: 350px;
+    }
+    .profile-image{
+        top: -50px;
+        margin-left: 125px;
+    }
+    .location{  
+        margin-left: 150px;
+    }
+}
